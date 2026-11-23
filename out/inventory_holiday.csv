@@ -1,0 +1,5 @@
+,stockout_rate%,lost_units%,excess_units%
+SNaive,43.48,18.68,26.71
+ETS,46.9,17.16,13.63
+M0,34.3,10.34,19.21
+M1,32.8,8.15,20.64
